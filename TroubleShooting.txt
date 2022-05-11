@@ -1,0 +1,54 @@
+Hello, This is trouble shooting for App To Discord.
+
+---- Table Of Contents ----
+Message not sending
+Color not working
+Image not sending
+---------------------------
+
+#Message Not Sending
+First lets check if discord is down, This can be done by clicking the following link;
+https://discordstatus.com/
+If discord is not operational then the webhook will have problems as well.
+The webhook runs off of the discord API, Therefore it will not be able to send.
+If there is anything else that prevents the message from sending that you have found out pleaes message me on discord via NotLambo#9931 -
+I will put out a potential fix as soon as possible.
+
+#Color Not Working
+First lets see if your using a hex code. As seen in the printed message when using the color webhook option it says "Enter a hex value for the color".
+Without the hex color the program will not be able to understand what your trying to instruct it to do and it will fail completely or fail only with the color and send everything else.
+I recommend this following link to get your hex codes from;
+https://www.color-hex.com/
+You can use any website you like but this one works best in my opinion!
+
+#Image not sending
+Trying to send that funny meme via your webhook but it won't send?!?!?
+No worrys I am working on a fix for this but a temporary fix is this
+follow these instructions and links to get the best possible fix.
+So lets say you want to use this meme;
+https://imgur.com/gallery/8nLFCVP
+But when you insert the link it won't send and it just leaves a error image.
+A simple fix is by right clicking the image, clicking copy image address and you will get something like this;
+https://i.imgur.com/8nLFCVP.png
+the .png or .jpg for example makes the difference.
+This link is now capable of being used in the program and will look nice within discord.
+
+
+Found a bug within the program?
+Send any problems or need help with anything to my discord;
+NotLambo#9931
+
+Previews;
+Image embed with and without preset message
+https://prnt.sc/Ne4qxJrYHR4p
+
+Normal Message
+https://prnt.sc/kktb-fPHIPbm
+
+Embed message
+https://prnt.sc/vJXvm5yRuIgk
+
+
+
+
+Shoutout to benteetmar for the lib
